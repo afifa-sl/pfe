@@ -1,0 +1,18 @@
+# LLM
+ollama
+
+# API
+fastapi
+uvicorn[standard]
+pydantic
+
+# Base vectorielle RAG
+chromadb
+
+# Base SQL
+pandas
+openpyxl
+
+# Documents
+pdfplumber
+python-docx
